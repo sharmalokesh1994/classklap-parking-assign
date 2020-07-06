@@ -14,6 +14,9 @@ Assumptions :
 2. There is No backup required as per the requirement (File-based or DB based)
 3. Considered One type of ParkingSlots and One Type of Vehicle
 
+Used Design Patterns:
+1. Singleton Design Pattern
+2. Factory Design Pattern
 
 To Run: go to client/Client.java and run as Java Application and give the input in the eclipse command
 
